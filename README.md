@@ -1,4 +1,4 @@
-# Smart-Object-Detection-Glasses-for-the-Visually-Impaired
+# Smart Object Detection Glasses for the Visually Impaired
 Developed an AI-Powered wearable device for visually impaired users to detect objects and people in real-time.
 
 This project is essentially, Smart Object Detection for the Visually Impaired. As the name suggests, I used AI-powered Object Detection and special code to detect objects in view of the camera, which the speaker then says out loud. 
