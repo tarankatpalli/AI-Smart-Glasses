@@ -1,3 +1,3 @@
 - Used Lucidchart to create Flow Chart Image
-- Used [YOLO object detection](https://docs.ultralytics.com/tasks/detect/) for identifying objects around user
+- Used YOLO object detection for identifying objects around user
 - All photos were taken by us
